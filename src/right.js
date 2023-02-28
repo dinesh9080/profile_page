@@ -1,7 +1,7 @@
 function Right() {
   return (
     <div className="under">
-      <div className="search">variantisual</div>
+      <div className="search"></div>
       <div className="bar">
         <div className="box1">box1</div>
         <div className="box2">box2</div>
